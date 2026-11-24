@@ -10,7 +10,7 @@ import os
 
 ENTRY = (
     "I survived your 4 a.m. alarms, your ex's 2 a.m. texts, and nine "
-    "hundred photos of your lunch. My last act is dying the exact "
+    "hundred photos of your lunch. My last act is dying the "
     "second you open the map you actually need."
 )
 
